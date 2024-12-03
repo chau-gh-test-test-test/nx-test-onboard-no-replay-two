@@ -1,0 +1,9 @@
+{
+  "name": "nx-test-onboard-no-replay-two",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/nx-test-onboard-no-replay-two/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project nx-test-onboard-no-replay-two --web",
+  "targets": {}
+}
